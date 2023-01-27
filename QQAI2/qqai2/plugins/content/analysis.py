@@ -1,6 +1,6 @@
 import re
 from QQAI2.qqai2.plugins.content.record import *
-def AnalysisNews(News: str, command='', symbol='\|', division:bool=True):
+def AnalysisNews(News: str, command='', symbol='\|', division=True):
     """
 
     :param News: 文本内容

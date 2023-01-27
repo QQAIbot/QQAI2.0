@@ -62,7 +62,7 @@ def data(data='json'):            #json配置执行函数
         conn.close()
     elif data == 'json':                                             #json数据配置
         print('ok')
-        with open('./QQAI2/qqai2/plugins/data/data.json', 'w') as f:
+        with open('./QQAI2/qqai2/plugins/data/data.json', 'w', encoding="UTF-8") as f:
             DATA = {'qd': {
                             'user': [],
                             '积分': [],
@@ -90,12 +90,12 @@ def data(data='json'):            #json配置执行函数
                 '解签': []
             }}
             json.dump(DATA, f, indent=4,ensure_ascii=False)
-    with open('./QQAI2/qqai2/plugins/data/reply.json', 'w') as reply:
+    with open('./QQAI2/qqai2/plugins/data/reply.json', 'w', encoding="UTF-8") as reply:
         reply_DATA = {'name': [],
                       'function': [],
                       'time': []}
         json.dump(reply_DATA, reply, indent=4)
-    with open('./QQAI2/qqai2/plugins/data/command.json', 'w') as command:
+    with open('./QQAI2/qqai2/plugins/data/command.json', 'w', encoding="UTF-8") as command:
         command_data = {'普通功能': {'签到': ['签到', 'qd'],
                         '抽签': ['抽签', 'cq'],
                         '解签': ['解签', 'jq'],
@@ -111,7 +111,7 @@ def data(data='json'):            #json配置执行函数
                                  '禁言': ['禁言', 'banned_to_post', 'jy'],
                                  '踢出': ['踢出', 'tc', 'kick_out']}}
         json.dump(command_data, command, indent=4, ensure_ascii=False)
-    with open('./QQAI2/qqai2/plugins/data/command_yml.json', 'w') as command:
+    with open('./QQAI2/qqai2/plugins/data/command_yml.json', 'w',encoding="UTF-8") as command:
         command_data = {'function': {
                         '签到': 'sing_in',
                         '抽签': 'draw_lots',

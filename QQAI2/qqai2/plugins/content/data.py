@@ -30,5 +30,5 @@ def Data(data=None, ReadWrite=None):
         with open('./qqai2/plugins/data/data.json', 'r') as f:
             return json.load(f)
     elif config.yml_DATA.data == 'json' and ReadWrite == 'w':
-        with open('./qqai2/plugins/data/data.json', 'w') as f:
+        with open('./qqai2/plugins/data/data.json', 'w', encoding="UTF-8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)

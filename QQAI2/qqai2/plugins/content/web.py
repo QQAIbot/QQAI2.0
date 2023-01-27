@@ -89,6 +89,7 @@ def web(data:str,command='') -> str:
         if config.yml_DATA.data == 'sqlite' or config.yml_DATA.data == 'mysql':
             if len(Data('select * from web')) != 0:
                 DATA = Data(f'select * from web where name = "{OriginalData}"')
+                print(len(DATA))
                 if len(DATA) != 0:
                     return '您要查询的网站网址为：'+DATA[0][1]
                 else:

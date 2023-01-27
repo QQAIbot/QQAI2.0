@@ -32,7 +32,7 @@ def xb_json():             #配置生成json
                     }
             }
         }
-        with open('config.json', 'w') as config:
+        with open('config.json', 'w', encoding="UTF-8") as config:
             json.dump(data, config, indent=4, ensure_ascii=False)
         print('\033[33mjson文件生成功请进行配置\033[0m')
         sys.exit(0)
