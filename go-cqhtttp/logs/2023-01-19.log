@@ -1,0 +1,103 @@
+[2023-01-19 09:18:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-19 09:18:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 09:18:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 09:18:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 09:20:18] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:20:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:38915->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:21:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:22:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9652->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:22:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:22:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:3559->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:24:33] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:24:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61844->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:25:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:25:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56879->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:26:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:26:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:57062->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:27:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:27:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64696->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:27:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:28:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:36479->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:28:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:28:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49337->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:29:37] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:29:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49474->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:52:02] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:52:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49575->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:52:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:52:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50794->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:53:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:53:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50866->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:55:33] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:55:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50907->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:56:20] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:56:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51145->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:56:40] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:56:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51222->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:56:53] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:56:56] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51262->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:57:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:57:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51280->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:58:05] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:58:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51299->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:58:31] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:58:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51405->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 09:58:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 09:58:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51464->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:00:07] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:00:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51492->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:00:24] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:00:31] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51632->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:01:43] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:01:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51666->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:02:48] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:02:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51788->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:03:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:03:41] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53298->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:05:32] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:05:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:17281->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:07:19] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:07:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9733->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:07:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:08:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59011->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:09:00] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:09:06] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59072->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:09:44] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:09:51] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59181->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:10:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:10:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59312->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:11:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:11:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59414->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:22:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:22:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59471->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:24:11] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:24:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60574->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:26:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:26:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:11530->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:27:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:28:01] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:22306->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:29:17] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 10:29:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:22474->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 10:31:34] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 11:05:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-19 11:05:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 11:05:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 11:05:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 11:05:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 11:05:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 13:17:19] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 13:17:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:3727->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 14:31:17] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-19 14:31:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:31:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:31:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:31:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:31:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:31:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:31:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:31:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:32:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:32:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-19 14:36:03] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-19 14:36:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:8118->127.0.0.1:28081: use of closed network connection 
+[2023-01-19 14:58:53] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 

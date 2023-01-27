@@ -1,0 +1,10 @@
+[2023-01-26 10:31:15] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-26 10:31:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-26 10:31:24] [ERROR]: Protocol -> test long message server latency error: failed to connect to server during quality test: dial tcp 109.244.158.52:443: i/o timeout 
+[2023-01-26 10:31:26] [ERROR]: 错误: 长消息服务器延迟测试失败, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 如果您使用的腾讯云服务器, 请修改DNS到114.114.114.114 
+[2023-01-26 10:31:28] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-26 10:36:26] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-26 10:36:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-26 10:36:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-26 10:36:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:28081/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:28081: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-26 10:39:54] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
